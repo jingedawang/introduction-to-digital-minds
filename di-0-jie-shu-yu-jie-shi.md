@@ -1,4 +1,4 @@
-# 第0节 术语解释
+# 第 0 节 术语解释
 
 {% hint style="info" %}
 本节为选读内容。
@@ -10,7 +10,7 @@
 
 <summary>数字心智（Digital Minds）</summary>
 
-值得道德考量的计算机系统。可能包含AI和全脑仿真（Whole Brain Emulation）。
+值得道德考量的计算机系统。可能包含 AI 和全脑仿真（Whole Brain Emulation）。
 
 数字心智的条件是系统的“道德地位（Moral Standing）”，而不在于其具体的实现方式、智能水平。此定义更强调在伦理上值得我们尊重和关怀的计算机系统。
 
@@ -44,7 +44,7 @@
 
 <summary>AI安全（AI Safety）</summary>
 
-确保AI的发展对人类、人类社会以及自然环境是安全且有利的。
+确保 AI 的发展对人类、人类社会以及自然环境是安全且有利的。
 
 </details>
 
@@ -52,7 +52,7 @@
 
 <summary>AI福祉（AI Welfare）</summary>
 
-确保AI的发展对AI自身是安全且有利的。
+确保 AI 的发展对 AI 自身是安全且有利的。
 
 </details>
 
